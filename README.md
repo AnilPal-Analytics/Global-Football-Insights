@@ -31,8 +31,7 @@ The goal was to uncover patterns that can support **scouting, player development
 ---
 
 ## 📈 Dashboard Preview  
-![Football Dashboard](Football%20Case%20Study%20Dashboard.png)  
-
+<img width="1340" height="756" alt="image" src="https://github.com/user-attachments/assets/fdf1eaeb-c796-48cf-abac-bd8ec9e8eb6c" />
 ---
 
 ## 📂 Project Structure  
@@ -44,6 +43,7 @@ The goal was to uncover patterns that can support **scouting, player development
 │── 📄 README.md # Project documentation
 
 
+
 ---
 
 ## 🚀 Outcomes  
@@ -53,7 +53,7 @@ The **interactive Tableau dashboard** provides a **one-stop view of global footb
 - Analysts explore **trends in wages, values, and performance**.  
 
 ---
-"C:\Users\Anil pal\Desktop\Footbaal Case Study\Football Case Study Dashboard.png"
+
 
 ## 🔗 Connect With Me  
 - 💼 **LinkedIn**: [Anil Pal](https://www.linkedin.com/in/anil-pal-8647a2361)  
